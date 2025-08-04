@@ -26,9 +26,9 @@ I'm passionate about data engineering, building my skills in SQL, Python, and da
 <h2 align="center">Connect with Me</h2>
 
 <p align="center">
-    <a href="mailto:alaa.awad980@yahoo.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-    <a href="https://github.com/alaaawd"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-    <a href="https://www.linkedin.com/in/alaaawd/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:alaa.awad980@yahoo.com"><img src="https://img.shields.io/badge/yahoo-%23400090.svg?style=plastic&logo=yahoo&logoColor=white" alt="Yahoo"/></a>
+    <a href="https://github.com/alaaawd"><img src="https://img.shields.io/badge/Github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+    <a href="https://www.linkedin.com/in/alaaawd/"><img src="https://img.shields.io/badge/Linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="https://www.hackerrank.com/profile/alaaawad0100"><img src="https://img.shields.io/badge/HackerRank-%2307C559.svg?style=plastic&logo=HackerRank&logoColor=white" alt="HackerRank"/></a>
     <a href="https://leetcode.com/u/alaaawad0100/"><img src="https://img.shields.io/badge/Leetcode-%23000000.svg?style=plastic&logo=Leetcode" alt="Leetcode"/></a>
 
@@ -46,3 +46,4 @@ I'm passionate about data engineering, building my skills in SQL, Python, and da
 ---
 
 <p align="center"><b>Thank you for taking the time to explore my profile. Feel free to connect!</b></p>
+
